@@ -15,7 +15,11 @@ This project demonstrates how **Monte Carlo methods** can be used to estimate pa
 The goal is to **simulate**, **analyze**, and **compare** empirical results against theoretical predictions of the binomial distribution, showing that large-scale random sampling can accurately approximate statistical expectations.
 
 ---
-
+## list of required Python packages
+numpy
+matplotlib
+pandas
+---
 ##  Concept and Motivation
 
 Monte Carlo algorithms rely on *random sampling* to approximate mathematical quantities that may be difficult or impossible to compute analytically.
@@ -59,7 +63,7 @@ A = \{ X = 5 \}
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 Run the simulation with:
 ```bash
