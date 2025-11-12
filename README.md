@@ -16,9 +16,11 @@ The goal is to **simulate**, **analyze**, and **compare** empirical results agai
 
 ---
 ## list of required Python packages
+
 numpy
 matplotlib
 pandas
+
 ---
 ##  Concept and Motivation
 
